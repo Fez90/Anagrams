@@ -6,11 +6,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-/*
- * Feruz Karimov
- * CS-570
- * Assignment 6
- */
+// Feruz Karimov
+ 
 
 public class Anagrams {
 	// initializing constant primes to an array of 26 prime numbers
